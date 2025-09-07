@@ -1,0 +1,16 @@
+@model libreria.Models.Libro
+@{
+    ViewData["Title"] = "Detalles del Libro";
+}
+
+<h2>Detalles del Libro</h2>
+
+<ul class="list-group">
+    <li class="list-group-item"><b>Título:</b> @Model.Titulo</li>
+    <li class="list-group-item"><b>Autor:</b> @Model.Autor</li>
+    <li class="list-group-item"><b>Año de Publicación:</b> @Model.AnioPublicacion</li>
+</ul>
+
+<p>
+    <a class="btn btn-secondary" href="/Libros">Volver al listado</a>
+</p>

@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User PC\\Downloads\\libreria\\libreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB612CD-2AB6-4222-A06C-DEF28F269925}|libreria\\libreria.csproj|c:\\users\\user pc\\downloads\\libreria\\libreria\\libreria\\views\\libros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DB612CD-2AB6-4222-A06C-DEF28F269925}|libreria\\libreria.csproj|solutionrelative:libreria\\views\\libros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB612CD-2AB6-4222-A06C-DEF28F269925}|libreria\\libreria.csproj|C:\\Users\\User PC\\Downloads\\libreria\\libreria\\libreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB612CD-2AB6-4222-A06C-DEF28F269925}|libreria\\libreria.csproj|solutionrelative:libreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB612CD-2AB6-4222-A06C-DEF28F269925}|libreria\\libreria.csproj|C:\\Users\\User PC\\Downloads\\libreria\\libreria\\libreria\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DB612CD-2AB6-4222-A06C-DEF28F269925}|libreria\\libreria.csproj|solutionrelative:libreria\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB612CD-2AB6-4222-A06C-DEF28F269925}|libreria\\libreria.csproj|C:\\Users\\User PC\\Downloads\\libreria\\libreria\\libreria\\views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DB612CD-2AB6-4222-A06C-DEF28F269925}|libreria\\libreria.csproj|solutionrelative:libreria\\views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB612CD-2AB6-4222-A06C-DEF28F269925}|libreria\\libreria.csproj|C:\\Users\\User PC\\Downloads\\libreria\\libreria\\libreria\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB612CD-2AB6-4222-A06C-DEF28F269925}|libreria\\libreria.csproj|solutionrelative:libreria\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User PC\\Downloads\\libreria\\libreria\\libreria\\Views\\Libros\\Index.cshtml",
+              "RelativeDocumentMoniker": "libreria\\Views\\Libros\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User PC\\Downloads\\libreria\\libreria\\libreria\\Views\\Libros\\Index.cshtml",
+              "RelativeToolTip": "libreria\\Views\\Libros\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T16:39:07.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User PC\\Downloads\\libreria\\libreria\\libreria\\Views\\Libros\\Create.cshtml",
+              "RelativeDocumentMoniker": "libreria\\Views\\Libros\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User PC\\Downloads\\libreria\\libreria\\libreria\\Views\\Libros\\Create.cshtml",
+              "RelativeToolTip": "libreria\\Views\\Libros\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T16:39:05.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User PC\\Downloads\\libreria\\libreria\\libreria\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "libreria\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User PC\\Downloads\\libreria\\libreria\\libreria\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "libreria\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T16:39:04.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\User PC\\Downloads\\libreria\\libreria\\libreria\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "libreria\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\User PC\\Downloads\\libreria\\libreria\\libreria\\Models\\Libro.cs",
+              "RelativeToolTip": "libreria\\Models\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T16:39:02.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\User PC\\Downloads\\libreria\\libreria\\libreria\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "libreria\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\User PC\\Downloads\\libreria\\libreria\\libreria\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "libreria\\Controllers\\LibrosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T16:39:01.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

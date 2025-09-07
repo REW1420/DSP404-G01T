@@ -1,0 +1,193 @@
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\bin\Debug\net9.0\appsettings.json
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\bin\Debug\net9.0\libreria.staticwebassets.runtime.json
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\bin\Debug\net9.0\libreria.staticwebassets.endpoints.json
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\bin\Debug\net9.0\libreria.exe
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\bin\Debug\net9.0\libreria.deps.json
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\bin\Debug\net9.0\libreria.runtimeconfig.json
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\bin\Debug\net9.0\libreria.dll
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\bin\Debug\net9.0\libreria.pdb
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\libreria.AssemblyInfoInputs.cache
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\libreria.AssemblyInfo.cs
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\libreria.csproj.CoreCompileInputs.cache
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\libreria.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\libreria.RazorAssemblyInfo.cache
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\libreria.RazorAssemblyInfo.cs
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\scopedcss\bundle\libreria.styles.css
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\scopedcss\projectbundle\libreria.bundle.scp.css
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\qugm49c4oi-b9sayid5wm.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\08xbnwlqcf-61n19gt1b8.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\vcy4egnkqf-xtxxf3hu2r.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\98n6veykp7-bqjiyaj88i.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\dxoluu5agx-c2jlpeoesf.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\uowxv900lm-erw9l3u2r3.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\y68e3aqm1s-aexeepp0ev.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\04vzsfcghb-d7shbmvgxk.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\uq3xf7ptsn-ausgxo2sd3.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\rmzqj1yw6w-k8d9w2qqmf.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\syjwk9mc1n-cosvhxvwiu.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\1ffwvgw8cr-ub07r2b239.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\6aaaqsp88a-fvhpjtyr6v.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\em60awngee-b7pk76d08c.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\j9u8tw8at8-fsbi9cje9m.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\ow3kous9ib-rzd6atqjts.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\3pkcif7y2e-ee0r1s7dh0.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\2mcfypk3sm-dxx9fxp4il.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\u1s4baqn01-jd9uben2k1.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\n4bky670oc-khv3u5hwcm.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\84ebjrb5ia-r4e9w2rdcm.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\mbypgiorwb-lcd1t2u6c8.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\9cl40s01vz-c2oey78nd0.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\khzivu2t9w-tdbxkamptv.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\9heb7jfb7y-j5mq2jizvt.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\861c8n60fp-06098lyss8.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\b9fcu3yase-nvvlpmu67g.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\eo67cymuyx-s35ty4nyc5.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\qga0tty5w9-pj5nd1wqec.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\85x4o9pds8-46ein0sx1k.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\w0dgjuyxn4-v0zj4ognzu.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\b1bwk52o5v-37tfw0ft22.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\dnhuv1371x-hrwsygsryq.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\ffa64zhid2-pk9g2wxc8p.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\v4jel5m7gk-ft3s53vfgj.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\1nhib9k63i-6cfz1n2cew.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\tt0z3tg6xq-6pdc2jztkx.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\ghbmfbpxya-493y06b0oq.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\u8qgf5cvop-iovd86k7lj.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\frn24r0ai8-vr1egmr9el.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\3m2jbenonp-kbrnm935zg.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\0t99aqd96m-jj8uyg4cgr.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\nnlb6t69a5-y7v9cxd14o.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\ad4sd1a0xq-notf2xhcfb.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\ctzpr3hmdf-h1s4sie4z3.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\e7dkdtotgz-63fj8s7r0e.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\2xuuodh301-0j3bgjxly4.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\xpt1l8v489-47otxtyo56.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\jv8iza59in-4v8eqarkd7.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\n6rta2nbpl-356vix0kms.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\imnrtsgaur-83jwlth58m.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\8nlxv31xw7-mrlpezrjn3.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\29z35aqcin-lzl9nlhx6b.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\dqwwbfzrfj-ag7o75518u.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\ibfsylzhk1-x0q3zqp4vz.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\7bkoa3yfss-0i3buxo5is.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\da5opxiag3-o1o13a6vjx.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\x6hwsen35n-ttgo8qnofa.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\799uoope2c-2z0ns9nrw6.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\kqy91ow6lq-muycvpuwrr.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\556ey1s9nj-87fc7y1x7t.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\6ubxxlsov7-mlv21k5csn.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\f4f8yhv5ir-oacdn0n29g.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\compressed\98cm0mpok8-oacdn0n29g.gz
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\libreria.dll
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\refint\libreria.dll
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\libreria.pdb
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\libreria.genruntimeconfig.cache
+C:\Users\Tito\Desktop\consecionaria\libreria\libreria\obj\Debug\net9.0\ref\libreria.dll
+C:\Users\User PC\Downloads\libreria\libreria\libreria\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\User PC\Downloads\libreria\libreria\libreria\bin\Debug\net9.0\appsettings.json
+C:\Users\User PC\Downloads\libreria\libreria\libreria\bin\Debug\net9.0\libreria.staticwebassets.runtime.json
+C:\Users\User PC\Downloads\libreria\libreria\libreria\bin\Debug\net9.0\libreria.staticwebassets.endpoints.json
+C:\Users\User PC\Downloads\libreria\libreria\libreria\bin\Debug\net9.0\libreria.exe
+C:\Users\User PC\Downloads\libreria\libreria\libreria\bin\Debug\net9.0\libreria.deps.json
+C:\Users\User PC\Downloads\libreria\libreria\libreria\bin\Debug\net9.0\libreria.runtimeconfig.json
+C:\Users\User PC\Downloads\libreria\libreria\libreria\bin\Debug\net9.0\libreria.dll
+C:\Users\User PC\Downloads\libreria\libreria\libreria\bin\Debug\net9.0\libreria.pdb
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\libreria.AssemblyInfoInputs.cache
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\libreria.AssemblyInfo.cs
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\libreria.csproj.CoreCompileInputs.cache
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\libreria.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\libreria.RazorAssemblyInfo.cache
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\libreria.RazorAssemblyInfo.cs
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\scopedcss\bundle\libreria.styles.css
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\scopedcss\projectbundle\libreria.bundle.scp.css
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\qugm49c4oi-b9sayid5wm.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\08xbnwlqcf-61n19gt1b8.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\vcy4egnkqf-xtxxf3hu2r.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\98n6veykp7-bqjiyaj88i.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\dxoluu5agx-c2jlpeoesf.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\uowxv900lm-erw9l3u2r3.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\y68e3aqm1s-aexeepp0ev.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\04vzsfcghb-d7shbmvgxk.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\uq3xf7ptsn-ausgxo2sd3.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\rmzqj1yw6w-k8d9w2qqmf.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\syjwk9mc1n-cosvhxvwiu.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\1ffwvgw8cr-ub07r2b239.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\6aaaqsp88a-fvhpjtyr6v.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\em60awngee-b7pk76d08c.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\j9u8tw8at8-fsbi9cje9m.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\ow3kous9ib-rzd6atqjts.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\3pkcif7y2e-ee0r1s7dh0.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\2mcfypk3sm-dxx9fxp4il.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\u1s4baqn01-jd9uben2k1.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\n4bky670oc-khv3u5hwcm.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\84ebjrb5ia-r4e9w2rdcm.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\mbypgiorwb-lcd1t2u6c8.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\9cl40s01vz-c2oey78nd0.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\khzivu2t9w-tdbxkamptv.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\9heb7jfb7y-j5mq2jizvt.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\861c8n60fp-06098lyss8.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\b9fcu3yase-nvvlpmu67g.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\eo67cymuyx-s35ty4nyc5.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\qga0tty5w9-pj5nd1wqec.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\85x4o9pds8-46ein0sx1k.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\w0dgjuyxn4-v0zj4ognzu.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\b1bwk52o5v-37tfw0ft22.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\dnhuv1371x-hrwsygsryq.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\ffa64zhid2-pk9g2wxc8p.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\v4jel5m7gk-ft3s53vfgj.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\1nhib9k63i-6cfz1n2cew.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\tt0z3tg6xq-6pdc2jztkx.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\ghbmfbpxya-493y06b0oq.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\u8qgf5cvop-iovd86k7lj.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\frn24r0ai8-vr1egmr9el.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\3m2jbenonp-kbrnm935zg.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\0t99aqd96m-jj8uyg4cgr.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\nnlb6t69a5-y7v9cxd14o.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\ad4sd1a0xq-notf2xhcfb.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\ctzpr3hmdf-h1s4sie4z3.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\e7dkdtotgz-63fj8s7r0e.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\2xuuodh301-0j3bgjxly4.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\xpt1l8v489-47otxtyo56.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\jv8iza59in-4v8eqarkd7.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\n6rta2nbpl-356vix0kms.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\imnrtsgaur-83jwlth58m.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\8nlxv31xw7-mrlpezrjn3.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\29z35aqcin-lzl9nlhx6b.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\dqwwbfzrfj-ag7o75518u.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\ibfsylzhk1-x0q3zqp4vz.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\7bkoa3yfss-0i3buxo5is.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\da5opxiag3-o1o13a6vjx.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\x6hwsen35n-ttgo8qnofa.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\799uoope2c-2z0ns9nrw6.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\kqy91ow6lq-muycvpuwrr.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\556ey1s9nj-87fc7y1x7t.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\6ubxxlsov7-mlv21k5csn.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\f4f8yhv5ir-oacdn0n29g.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\compressed\98cm0mpok8-oacdn0n29g.gz
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\libreria.dll
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\refint\libreria.dll
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\libreria.pdb
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\libreria.genruntimeconfig.cache
+C:\Users\User PC\Downloads\libreria\libreria\libreria\obj\Debug\net9.0\ref\libreria.dll

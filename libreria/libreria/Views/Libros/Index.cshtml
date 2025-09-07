@@ -1,0 +1,35 @@
+@model IEnumerable<libreria.Models.Libro>
+@{
+    ViewData["Title"] = "Listado de Libros";
+}
+
+<h2>Listado de Libros</h2>
+
+<p>
+    <a class="btn btn-success" href="/Libros/Create">Agregar un nuevo libro</a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Título</th>
+            <th>Autor</th>
+            <th>Año de publicación</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var libro in Model)
+    {
+        <tr>
+            <td>@libro.Titulo</td>
+            <td>@libro.Autor</td>
+            <td>@libro.AnioPublicacion</td>
+            <td>
+                <a class="btn btn-info" href="/Libros/Details/@libro.Id">Ver</a>
+                <a class="btn btn-danger" href="/Libros/Delete/@libro.Id">Eliminar</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
